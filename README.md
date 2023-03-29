@@ -4,5 +4,5 @@ This Smart Contract allows users to publish multiples copies of a book as an NFT
 
 The overall process can be seen below:
 
-![image](https://user-images.githubusercontent.com/126001574/228486023-8f3c7120-e5bb-427f-a853-d9de5847b28f.png)
+![image](https://user-images.githubusercontent.com/126001574/228486103-2ef4e4a1-f0c7-42d6-a61a-93bbd58a1e4c.png)
 
